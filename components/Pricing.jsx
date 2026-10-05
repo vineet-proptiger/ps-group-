@@ -5,7 +5,7 @@ const pricingData = [
   {
     type: '3 BHK',
     area: '1,400 - 1,700 SQ.FT.',
-    price: '₹ 1.50 Cr* Onwards',
+    price: '₹ 1.40 Cr* Onwards',
   },
   {
     type: '4 BHK',

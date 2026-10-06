@@ -56,8 +56,7 @@ const Hero = ({ setIsOpen }) => {
     >
       <div className="w-full pt-[82px] pb-8 sm:pt-[88px] sm:pb-10 lg:pt-[98px] lg:pb-12 relative z-10">
 
-        {/* Ambient subtle glow in background (static) */}
-        <div className="absolute top-0 right-1/4 w-72 sm:w-[450px] h-72 sm:h-[450px] bg-[#f5b800]/15 rounded-full blur-[100px] pointer-events-none" />
+        {/* Ambient glow removed for cleaner light theme */}
 
         <div className="container mx-auto px-3.5 sm:px-6" style={{ maxWidth: '1380px' }}>
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 sm:gap-8 lg:gap-10 items-start">
@@ -70,7 +69,7 @@ const Hero = ({ setIsOpen }) => {
               {/* Heading & Brand Identity */}
               <div className="mb-3 sm:mb-4">
                 <div className="flex flex-wrap items-baseline gap-2.5 sm:gap-3.5 mb-1.5">
-                  <h1 className="text-gray-900 font-black tracking-tight leading-[1.08] text-[28px] xs:text-[32px] sm:text-[38px] md:text-[44px] m-0">
+                  <h1 className="text-gray-900 font-black tracking-tight leading-[1.08] text-[24px] xs:text-[28px] sm:text-[32px] md:text-[38px] m-0">
                     PS Group Project 
                   </h1>
                   {/* <span className="text-[10px] sm:text-[11px] uppercase tracking-[1.5px] font-semibold text-[#fed215] bg-[#f5b800]/20 border border-[#f5b800]/40 px-2.5 py-0.5 rounded-full self-center">
@@ -189,7 +188,7 @@ const Hero = ({ setIsOpen }) => {
             <div className="lg:col-span-5 mt-2 lg:mt-0 flex flex-col">
 
               {/* Key Quick Specs Strip (Moved above the form) */}
-              <div className="flex flex-row flex-wrap items-center justify-between gap-x-2 gap-y-3 sm:gap-4 lg:gap-5 p-2.5 sm:p-4 mb-5 rounded-2xl bg-gradient-to-br from-white to-gray-50 border border-gray-200 text-xs sm:text-sm shadow-[0_4px_20px_rgba(0,0,0,0.06)] w-full">
+              <div className="flex flex-row flex-wrap items-center justify-between gap-x-2 gap-y-3 sm:gap-4 lg:gap-5 p-2.5 sm:p-4 mb-5 rounded-2xl bg-gradient-to-br from-white to-gray-50 border border-black text-xs sm:text-sm w-full">
                 <div className="flex-shrink-0">
                   <span className="text-gray-500 font-bold tracking-wider text-[10px] sm:text-[11px] uppercase block mb-1">Price</span>
                   <div className="flex items-center gap-1.5">
@@ -213,7 +212,7 @@ const Hero = ({ setIsOpen }) => {
               </div>
 
               <div
-                className="bg-white border border-gray-200 shadow-xl rounded-2xl sm:rounded-3xl p-4 sm:p-6 lg:p-8 relative overflow-hidden"
+                className="bg-white border border-black rounded-2xl sm:rounded-3xl p-4 sm:p-6 lg:p-8 relative overflow-hidden"
                 style={{
                   borderTop: '4px solid #f5b800',
                 }}

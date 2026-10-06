@@ -65,7 +65,7 @@ export default function Home() {
           id="mobile-call"
           href={`tel:${PHONE_NUMBER}`}
           className="flex-1 flex flex-col items-center justify-center py-2 px-1"
-          style={{ background: '#1a1a1a', borderRight: '1px solid #333' }}
+          style={{ background: '#1c6deb', borderRight: '1px solid #333' }}
         >
           <div className="phone-icon-wrap flex items-center justify-center">
             <svg width="20" height="20" fill="#ffffff" viewBox="0 0 24 24">

@@ -175,10 +175,9 @@ const LeadForm = ({ formName = 'Hero Form', btnText = 'Submit Now' }) => {
         />
         <label
           htmlFor="consentCheck"
-          className="cursor-pointer"
+          className="cursor-pointer text-gray-600"
           style={{
             fontSize: '11.5px',
-            color: 'rgba(255, 255, 255, 0.7)',
             lineHeight: 1.55,
             fontFamily: 'var(--font-poppins), Poppins, sans-serif',
           }}
@@ -187,7 +186,7 @@ const LeadForm = ({ formName = 'Hero Form', btnText = 'Submit Now' }) => {
           <a
             href="/privacy-policy"
             target="_blank"
-            style={{ color: '#ffffff', fontWeight: 700, textDecoration: 'underline' }}
+            className="text-gray-900 font-bold underline"
           >
             privacy policy
           </a>{' '}

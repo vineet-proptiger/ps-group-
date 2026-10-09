@@ -5,7 +5,7 @@
 @import 'aos/dist/aos.css';
 
 /* ═══════════════════════════════════════════════════════════════
-   THEME VARIABLES — New Launch Projects in Newtown ═══════════════════════════════════════════════════════════════ */
+   THEME VARIABLES — Upcoming New Launch Projects in Newtown ═══════════════════════════════════════════════════════════════ */
 :root {
   /* ── Accent Palette (Signature Golden Yellow & Contrast Black) ── */
   --color-gold: #f5b800;
@@ -556,7 +556,7 @@
   }
 }
 
-/* ─── New Launch Projects in Newtown Hero Styles ─────────────────────────────────── */
+/* ─── Upcoming New Launch Projects in Newtown Hero Styles ─────────────────────────────────── */
 .hero-section {
   font-family: var(--font-poppins), 'Poppins', sans-serif;
 }

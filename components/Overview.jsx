@@ -16,7 +16,7 @@ const Overview = ({ setIsOpen }) => {
             <div className="relative w-full max-w-[480px] h-[320px] sm:h-[380px] md:h-[430px] lg:h-[470px] rounded-[20px] overflow-hidden shadow-[0_10px_35px_rgba(0,0,0,0.08)]">
                <Image 
                  src={overviewImage} 
-                 alt="About New Launch Projects in Newtown " 
+                 alt="About Upcoming New Launch Projects in Newtown " 
                  fill 
                  className="object-cover" 
                  sizes="(max-width: 1024px) 100vw, 50vw" 
@@ -39,7 +39,7 @@ const Overview = ({ setIsOpen }) => {
               <div className="mb-5 pr-0 lg:pr-6">
                 <div className={`text-[#6c757d] text-[15px] leading-[1.7] text-justify ${!isExpanded ? 'line-clamp-5 overflow-hidden' : ''}`}>
                   <p className="m-0 mb-3">
-                    <strong className="text-[#111111]">New Launch Projects in Newtown </strong> brings a legacy of engineering excellence to Kolkata, with a premium residential development spanning 22 acres. The project reflects decades of expertise and quality. Planned with extensive green areas and a modern architectural design, it will offer thoughtfully designed high-rise residences, refined architecture, contemporary living spaces, and a well-planned community.
+                    <strong className="text-[#111111]">Upcoming New Launch Projects in Newtown </strong> brings a legacy of engineering excellence to Kolkata, with a premium residential development spanning 22 acres. The project reflects decades of expertise and quality. Planned with extensive green areas and a modern architectural design, it will offer thoughtfully designed high-rise residences, refined architecture, contemporary living spaces, and a well-planned community.
                   </p>
                   <p className="m-0">
                     Featuring 3 &amp; 4 BHK luxury residences across 12 premium towers rising up to G+29/30 floors, the project embodies modern sophistication, extensive landscaped open greens, premium lifestyle amenities, and only 4 apartments per core.

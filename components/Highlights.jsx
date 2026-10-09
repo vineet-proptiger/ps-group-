@@ -45,7 +45,7 @@ const Highlights = ({ setIsOpen }) => {
             PROJECT HIGHLIGHTS
           </span>
           <h2 className="text-[#111111] text-[26px] sm:text-[32px] md:text-[38px] font-extrabold m-0 leading-tight md:whitespace-nowrap">
-            Highlights of New Launch Projects in Newtown </h2>
+            Highlights of Upcoming New Launch Projects in Newtown </h2>
         </div>
 
         {/* 6 Cards: 3 per row on desktop */}

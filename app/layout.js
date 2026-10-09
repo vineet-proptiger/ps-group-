@@ -41,16 +41,16 @@ const nephilm = localFont({
 
 export const metadata = {
   metadataBase: new URL('https://psgroupprojectsnewtown.com'),
-  title: 'New Launch Projects in Newtown | Luxury 3 & 4 BHK Apartments',
-  description: 'New Launch Projects in Newtown offers luxury 3 & 4 BHK residences with premium lifestyle amenities. Spread across 22 acres with Premium lifestyle amenities. Enquire for details!',
+  title: 'Upcoming New Launch Projects in Newtown | Luxury 3 & 4 BHK Apartments',
+  description: 'Upcoming New Launch Projects in Newtown offers luxury 3 & 4 BHK residences with premium lifestyle amenities. Spread across 22 acres with Premium lifestyle amenities. Enquire for details!',
   alternates: {
     canonical: '/',
   },
   openGraph: {
-    title: 'New Launch Projects in Newtown | Luxury 3 & 4 BHK Apartments',
-    description: 'New Launch Projects in Newtown offers luxury 3 & 4 BHK residences with premium lifestyle amenities. Spread across 22 acres with Premium lifestyle amenities. Enquire for details!',
+    title: 'Upcoming New Launch Projects in Newtown | Luxury 3 & 4 BHK Apartments',
+    description: 'Upcoming New Launch Projects in Newtown offers luxury 3 & 4 BHK residences with premium lifestyle amenities. Spread across 22 acres with Premium lifestyle amenities. Enquire for details!',
     url: 'https://psgroupprojectsnewtown.com',
-    siteName: 'New Launch Projects in Newtown ',
+    siteName: 'Upcoming New Launch Projects in Newtown ',
     type: 'website',
   },
   icons: {

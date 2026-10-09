@@ -3,38 +3,38 @@ import React, { useState } from 'react'
 
 const faqData = [
   {
-    question: 'What configurations are available at New Launch Projects in Newtown ?',
+    question: 'What configurations are available at Upcoming New Launch Projects in Newtown ?',
     answer: (
       <>
-        New Launch Projects in Newtown offers spacious <strong className="font-semibold text-[#222222]">3 BHK and 4 BHK luxury residences</strong> with modern layouts, expansive balconies, premium interiors, and refined architecture.
+        Upcoming New Launch Projects in Newtown offers spacious <strong className="font-semibold text-[#222222]">3 BHK and 4 BHK luxury residences</strong> with modern layouts, expansive balconies, premium interiors, and refined architecture.
       </>
     ),
   },
   {
-    question: 'Is New Launch Projects in Newtown RERA registered?',
+    question: 'Is Upcoming New Launch Projects in Newtown RERA registered?',
     answer: (
       <>
-        Yes, <strong className="font-semibold text-[#222222]">New Launch Projects in Newtown </strong> is registered with the West Bengal Real Estate Regulatory Authority (WBRERA). RERA Registration No: <strong className="font-semibold text-[#222222]">Coming Soon</strong>.
+        Yes, <strong className="font-semibold text-[#222222]">Upcoming New Launch Projects in Newtown </strong> is registered with the West Bengal Real Estate Regulatory Authority (WBRERA). RERA Registration No: <strong className="font-semibold text-[#222222]">Coming Soon</strong>.
       </>
     ),
   },
   {
-    question: 'How big is New Launch Projects in Newtown and how many towers does it have?',
+    question: 'How big is Upcoming New Launch Projects in Newtown and how many towers does it have?',
     answer:
-      'New Launch Projects in Newtown is spread across a prime 22-acre land parcel featuring 12 Premium Towers rising up to G+29/30 floors, with only 4 apartments per core and a total of 800–900 luxury units.',
+      'Upcoming New Launch Projects in Newtown is spread across a prime 22-acre land parcel featuring 12 Premium Towers rising up to G+29/30 floors, with only 4 apartments per core and a total of 800–900 luxury units.',
   },
   {
-    question: 'Where exactly is New Launch Projects in Newtown located?',
+    question: 'Where exactly is Upcoming New Launch Projects in Newtown located?',
     answer: (
       <>
-        New Launch Projects in Newtown is strategically located in <strong className="font-semibold text-[#222222]">Newtown, Kolkata</strong>, offering excellent connectivity to <strong className="font-semibold text-[#222222]">Biswa Bangla Gate, Eco Park, Sector V IT Hub, and the International Airport</strong>.
+        Upcoming New Launch Projects in Newtown is strategically located in <strong className="font-semibold text-[#222222]">Newtown, Kolkata</strong>, offering excellent connectivity to <strong className="font-semibold text-[#222222]">Biswa Bangla Gate, Eco Park, Sector V IT Hub, and the International Airport</strong>.
       </>
     ),
   },
   {
-    question: 'Is New Launch Projects in Newtown a good investment?',
+    question: 'Is Upcoming New Launch Projects in Newtown a good investment?',
     answer:
-      "Yes, New Launch Projects in Newtown is considered a top-tier investment due to the developer's legacy of engineering excellence, prime Newtown location, premium lifestyle amenities, low-density development, and high capital appreciation potential in Kolkata.",
+      "Yes, Upcoming New Launch Projects in Newtown is considered a top-tier investment due to the developer's legacy of engineering excellence, prime Newtown location, premium lifestyle amenities, low-density development, and high capital appreciation potential in Kolkata.",
   },
 ]
 

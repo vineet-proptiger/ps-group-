@@ -70,8 +70,7 @@ const Hero = ({ setIsOpen }) => {
               <div className="mb-3 sm:mb-4">
                 <div className="flex flex-wrap items-baseline gap-2.5 sm:gap-3.5 mb-1.5">
                   <h1 className="text-gray-900 font-black tracking-tight leading-[1.08] text-[22px] xs:text-[26px] sm:text-[30px] md:text-[36px] m-0">
-                    New Launch Projects in Newtown
-                  </h1>
+                    Upcoming New Launch Projects in Newtown </h1>
                   {/* <span className="text-[10px] sm:text-[11px] uppercase tracking-[1.5px] font-semibold text-[#fed215] bg-[#f5b800]/20 border border-[#f5b800]/40 px-2.5 py-0.5 rounded-full self-center">
                     Pre-Launch • Newtown, Kolkata
                   </span> */}
@@ -224,7 +223,7 @@ const Hero = ({ setIsOpen }) => {
                 </div>
 
                 {/* LeadForm */}
-                <LeadForm formName="New Launch Projects in Newtown Hero Form" btnText="Submit" />
+                <LeadForm formName="Upcoming New Launch Projects in Newtown Hero Form" btnText="Submit" />
 
                 {/* Instant Actions (Call & Visit on Mobile) */}
                 <div className="mt-3.5 pt-3.5 border-t border-gray-200 flex items-center justify-between text-[11.5px] sm:text-xs">

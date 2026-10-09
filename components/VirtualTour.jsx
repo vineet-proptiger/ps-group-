@@ -19,7 +19,7 @@ const VirtualTour = ({ setIsOpen }) => {
     >
       <Image
         src={virtualTourImage}
-        alt="New Launch Projects in Newtown Virtual Tour"
+        alt="Upcoming New Launch Projects in Newtown Virtual Tour"
         fill
         className="object-cover"
         quality={100}

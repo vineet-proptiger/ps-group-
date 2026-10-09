@@ -32,7 +32,7 @@ const Footer = () => (
         data-aos="fade-up" data-aos-delay="100"
         className="text-[#a1a1aa] text-[15px] sm:text-[16px] leading-[1.8] max-w-[920px] mb-10 text-justify sm:text-center"
       >
-        PS Group is one of the leading real estate developers, with decades of experience in delivering landmark residential and commercial projects. Known for its commitment to quality, timely delivery, and innovative designs, the group creates spaces that elevate modern lifestyles and provide enduring value.
+        With a strong focus on quality, innovation, and thoughtful design, this upcoming residential development is envisioned to offer a refined lifestyle with modern amenities, contemporary architecture, and long-term value. Every detail is planned to deliver comfort, convenience, and an elevated living experience.
       </p>
 
       {/* ── RERA Number Box ── */}

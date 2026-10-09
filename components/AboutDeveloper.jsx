@@ -189,7 +189,7 @@ const AboutDeveloper = ({ setIsOpen }) => (
               </div>
               <div>
                 <h3 style={{ fontFamily: F_JOST, fontWeight: '800', fontSize: '18px', color: '#fff', margin: '0 0 4px', letterSpacing: '-0.01em' }}>
-                  PS Group
+                  The Developer
                 </h3>
 
               </div>
@@ -199,9 +199,9 @@ const AboutDeveloper = ({ setIsOpen }) => (
           {/* White Body */}
           <div style={{ padding: '24px 28px', flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
             <p className='text-justify' style={{ color: '#555', fontFamily: F_SANS, lineHeight: 1.85, fontSize: '14px', margin: '0 0 20px' }}>
-              PS Group brings its legacy of excellence to Kolkata, with a premium residential development spanning 22 acres. The project reflects decades of expertise, trust, and uncompromising quality.
+              The developer brings its legacy of excellence to Kolkata, with a premium residential development spanning 22 acres. The project reflects decades of expertise, trust, and uncompromising quality.
               <br /><br />
-              Planned with extensive green areas and a modern architectural design, it offers thoughtfully designed high-rise residences, refined architecture, and contemporary living spaces. With a commitment to transparency, engineering brilliance, and rapid execution, PS Group creates iconic developments that elevate modern lifestyles.
+              Planned with extensive green areas and a modern architectural design, it offers thoughtfully designed high-rise residences, refined architecture, and contemporary living spaces. With a commitment to transparency, engineering brilliance, and rapid execution, the developer creates iconic developments that elevate modern lifestyles.
               <br /><br />
               At the heart of every project lies a dedicated focus on customer centricity, architectural perfection, and sustainable luxury living — delivering spaces that inspire life, community, and enduring value.
             </p>

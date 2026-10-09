@@ -3,38 +3,38 @@ import React, { useState } from 'react'
 
 const faqData = [
   {
-    question: 'What configurations are available at PS Group Project?',
+    question: 'What configurations are available at New Launch Projects in Newtown ?',
     answer: (
       <>
-        PS Group Project offers spacious <strong className="font-semibold text-[#222222]">3 BHK and 4 BHK luxury residences</strong> with modern layouts, expansive balconies, premium interiors, and refined architecture by PS Group.
+        New Launch Projects in Newtown offers spacious <strong className="font-semibold text-[#222222]">3 BHK and 4 BHK luxury residences</strong> with modern layouts, expansive balconies, premium interiors, and refined architecture.
       </>
     ),
   },
   {
-    question: 'Is PS Group Project RERA registered?',
+    question: 'Is New Launch Projects in Newtown RERA registered?',
     answer: (
       <>
-        Yes, <strong className="font-semibold text-[#222222]">PS Group Project</strong> is registered with the West Bengal Real Estate Regulatory Authority (WBRERA). RERA Registration No: <strong className="font-semibold text-[#222222]">Coming Soon</strong>.
+        Yes, <strong className="font-semibold text-[#222222]">New Launch Projects in Newtown </strong> is registered with the West Bengal Real Estate Regulatory Authority (WBRERA). RERA Registration No: <strong className="font-semibold text-[#222222]">Coming Soon</strong>.
       </>
     ),
   },
   {
-    question: 'How big is PS Group Project and how many towers does it have?',
+    question: 'How big is New Launch Projects in Newtown and how many towers does it have?',
     answer:
-      'PS Group Project is spread across a prime 22-acre land parcel featuring 12 Premium Towers rising up to G+29/30 floors, with only 4 apartments per core and a total of 800–900 luxury units.',
+      'New Launch Projects in Newtown is spread across a prime 22-acre land parcel featuring 12 Premium Towers rising up to G+29/30 floors, with only 4 apartments per core and a total of 800–900 luxury units.',
   },
   {
-    question: 'Where exactly is PS Group Project located?',
+    question: 'Where exactly is New Launch Projects in Newtown located?',
     answer: (
       <>
-        PS Group Project  is strategically located in <strong className="font-semibold text-[#222222]">Newtown, Kolkata</strong>, offering excellent connectivity to <strong className="font-semibold text-[#222222]">Biswa Bangla Gate, Eco Park, Sector V IT Hub, and the International Airport</strong>.
+        New Launch Projects in Newtown is strategically located in <strong className="font-semibold text-[#222222]">Newtown, Kolkata</strong>, offering excellent connectivity to <strong className="font-semibold text-[#222222]">Biswa Bangla Gate, Eco Park, Sector V IT Hub, and the International Airport</strong>.
       </>
     ),
   },
   {
-    question: 'Is PS Group Project a good investment?',
+    question: 'Is New Launch Projects in Newtown a good investment?',
     answer:
-      "Yes, PS Group Project is considered a top-tier investment due to PS Group's legacy of engineering excellence, prime Newtown location, premium lifestyle amenities, low-density development, and high capital appreciation potential in Kolkata.",
+      "Yes, New Launch Projects in Newtown is considered a top-tier investment due to the developer's legacy of engineering excellence, prime Newtown location, premium lifestyle amenities, low-density development, and high capital appreciation potential in Kolkata.",
   },
 ]
 

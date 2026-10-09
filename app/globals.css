@@ -5,10 +5,9 @@
 @import 'aos/dist/aos.css';
 
 /* ═══════════════════════════════════════════════════════════════
-   THEME VARIABLES — PS Group Project
-   ═══════════════════════════════════════════════════════════════ */
+   THEME VARIABLES — New Launch Projects in Newtown ═══════════════════════════════════════════════════════════════ */
 :root {
-  /* ── Accent Palette (PS Group Signature Golden Yellow & Contrast Black) ── */
+  /* ── Accent Palette (Signature Golden Yellow & Contrast Black) ── */
   --color-gold: #f5b800;
   --color-gold-light: #fed215;
   --color-gold-dark: #d49500;
@@ -557,7 +556,7 @@
   }
 }
 
-/* ─── PS Group Project  Hero Styles ─────────────────────────────────── */
+/* ─── New Launch Projects in Newtown Hero Styles ─────────────────────────────────── */
 .hero-section {
   font-family: var(--font-poppins), 'Poppins', sans-serif;
 }

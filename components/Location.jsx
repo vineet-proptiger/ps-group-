@@ -70,7 +70,7 @@ const Location = () => {
               allowFullScreen=""
               loading="lazy"
               referrerPolicy="strict-origin-when-cross-origin"
-              title="PS Group Project Google Maps Location"
+              title="New Launch Projects in Newtown Google Maps Location"
               className="w-full h-full block flex-1"
             />
             {/* Direct Google Maps Navigation Button */}

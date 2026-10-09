@@ -13,9 +13,9 @@ const highlights = [
     icon: 'fa-solid fa-tree-city',
   },
   {
-    title: 'Trusted Developer Background',
-    description: 'Developed by PS Group, a well-known name in real estate development, bringing decades of experience and quality to this project.',
-    icon: 'fa-solid fa-building-shield',
+    title: 'Premium Lifestyle Amenities',
+    description: 'Enjoy exclusive access to a grand clubhouse featuring a swimming pool, state-of-the-art gymnasium, indoor games, and dedicated wellness zones.',
+    icon: 'fa-solid fa-gem',
   },
   {
     title: 'Spacious Home Formats',
@@ -45,8 +45,7 @@ const Highlights = ({ setIsOpen }) => {
             PROJECT HIGHLIGHTS
           </span>
           <h2 className="text-[#111111] text-[26px] sm:text-[32px] md:text-[38px] font-extrabold m-0 leading-tight md:whitespace-nowrap">
-            Highlights of PS Group Project
-          </h2>
+            Highlights of New Launch Projects in Newtown </h2>
         </div>
 
         {/* 6 Cards: 3 per row on desktop */}

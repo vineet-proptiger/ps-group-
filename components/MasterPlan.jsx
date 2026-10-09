@@ -62,7 +62,7 @@ const MasterPlan = ({ setIsOpen }) => {
               <div className="relative w-full aspect-[16/10] sm:aspect-[16/9] bg-gray-50 p-4 sm:p-8 flex items-center justify-center overflow-hidden">
                 <Image
                   src="/images/masterplan/masterplan.webp"
-                  alt="PS Group Project Master Plan"
+                  alt="New Launch Projects in Newtown Master Plan"
                   fill
                   className="object-contain filter blur-[6px] transition-transform duration-500 group-hover:scale-105"
                   sizes="(max-width: 1024px) 100vw, 900px"

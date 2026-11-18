@@ -43,8 +43,8 @@ const Navbar = ({ setIsOpen }) => {
           <a href="#home" className="flex items-center shrink-0">
             <img
               src={logoImages.main}
-              alt="Upcoming New Launch Projects in Newtown "
-              style={{ height: 'clamp(42px, 6vw, 56px)', width: 'auto', objectFit: 'contain' }}
+              alt="Aroha by PS Group, New Launch Projects in Newtown Action Area II "
+              style={{ height: 'clamp(43px, 6vw, 57px)', width: 'auto', objectFit: 'contain' }}
             />
           </a>
 

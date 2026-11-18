@@ -21,7 +21,7 @@ const Footer = () => (
         data-aos="fade-up" data-aos-delay="50"
         className="text-[#fed215] font-semibold text-[12px] sm:text-[13.5px] tracking-[2px] uppercase m-0"
       >
-        LANDMARK LUXURY RESIDENTIAL DEVELOPMENT — Newtown, Kolkata
+        LANDMARK LUXURY RESIDENTIAL DEVELOPMENT — Newtown Action Area II, Kolkata
       </p>
 
       {/* ── Accent Underline ── */}
@@ -32,7 +32,7 @@ const Footer = () => (
         data-aos="fade-up" data-aos-delay="100"
         className="text-[#a1a1aa] text-[15px] sm:text-[16px] leading-[1.8] max-w-[920px] mb-10 text-justify sm:text-center"
       >
-        With a strong focus on quality, innovation, and thoughtful design, this upcoming residential development is envisioned to offer a refined lifestyle with modern amenities, contemporary architecture, and long-term value. Every detail is planned to deliver comfort, convenience, and an elevated living experience.
+        With a strong focus on quality, innovation, and thoughtful design, this Aroha by PS Group, residential development is envisioned to offer a refined lifestyle with modern amenities, contemporary architecture, and long-term value. Every detail is planned to deliver comfort, convenience, and an elevated living experience.
       </p>
 
       {/* ── RERA Number Box ── */}
@@ -44,7 +44,7 @@ const Footer = () => (
           RERA No :
         </span>
         <span className="text-white font-bold text-[14px] sm:text-[15.5px] tracking-wide">
-          Coming Soon
+          WBRERA/P/NOR/2026/004939
         </span>
       </div>
 

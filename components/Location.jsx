@@ -2,7 +2,7 @@
 import React from 'react'
 
 const locationList = [
-  { title: 'DPS Newtown', time: '1.5 Km', icon: 'fa-solid fa-graduation-cap' },
+  { title: 'DPS Newtown Action Area II', time: '1.5 Km', icon: 'fa-solid fa-graduation-cap' },
   { title: 'Tata Medical Center', time: '2 Km', icon: 'fa-solid fa-hospital' },
   { title: 'Biswa Bangla Gate', time: '1.5 Km', icon: 'fa-solid fa-monument' },
   { title: 'Eco Park', time: '2 Km', icon: 'fa-solid fa-tree' },
@@ -63,20 +63,20 @@ const Location = () => {
             data-aos="fade-left"
           >
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3510.0153810214406!2d76.9376436!3d28.388603399999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d3d001359182d%3A0x2f0c14132502c6a8!2sNewtown%20Kolkata!5e0!3m2!1sen!2sin!4v1791018473238!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3510.0153810214406!2d76.9376436!3d28.388603399999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d3d001359182d%3A0x2f0c14132502c6a8!2sNewtown Action Area II%20Kolkata!5e0!3m2!1sen!2sin!4v1791018473238!5m2!1sen!2sin"
               width="100%"
               height="100%"
               style={{ border: 0, minHeight: '380px' }}
               allowFullScreen=""
               loading="lazy"
               referrerPolicy="strict-origin-when-cross-origin"
-              title="Upcoming New Launch Projects in Newtown Google Maps Location"
+              title="Aroha by PS Group, New Launch Projects in Newtown Action Area II Google Maps Location"
               className="w-full h-full block flex-1"
             />
             {/* Direct Google Maps Navigation Button */}
             <div className="absolute bottom-3 right-3 z-10">
               <a
-                href="https://www.google.com/maps/search/?api=1&query=Newtown+Kolkata"
+                href="https://www.google.com/maps/search/?api=1&query=Newtown Action Area II+Kolkata"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-white/95 hover:bg-white text-[#111111] hover:text-[#b87e00] px-4 py-2 rounded-full text-xs font-bold shadow-md border border-gray-200 transition-colors backdrop-blur-sm cursor-pointer"

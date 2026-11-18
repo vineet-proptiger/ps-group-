@@ -5,7 +5,7 @@
 @import 'aos/dist/aos.css';
 
 /* ═══════════════════════════════════════════════════════════════
-   THEME VARIABLES — Upcoming New Launch Projects in Newtown ═══════════════════════════════════════════════════════════════ */
+   THEME VARIABLES — Aroha by PS Group, New Launch Projects in Newtown Action Area II ═══════════════════════════════════════════════════════════════ */
 :root {
   /* ── Accent Palette (Signature Golden Yellow & Contrast Black) ── */
   --color-gold: #f5b800;
@@ -556,7 +556,7 @@
   }
 }
 
-/* ─── Upcoming New Launch Projects in Newtown Hero Styles ─────────────────────────────────── */
+/* ─── Aroha by PS Group, New Launch Projects in Newtown Action Area II Hero Styles ─────────────────────────────────── */
 .hero-section {
   font-family: var(--font-poppins), 'Poppins', sans-serif;
 }

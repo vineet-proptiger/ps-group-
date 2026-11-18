@@ -70,9 +70,9 @@ const Hero = ({ setIsOpen }) => {
               <div className="mb-3 sm:mb-4">
                 <div className="flex flex-wrap items-baseline gap-2.5 sm:gap-3.5 mb-1.5">
                   <h1 className="text-gray-900 font-black tracking-tight leading-[1.08] text-[22px] xs:text-[26px] sm:text-[30px] md:text-[36px] m-0">
-                    Upcoming New Launch Projects in Newtown </h1>
+                    Aroha by PS Group </h1>
                   {/* <span className="text-[10px] sm:text-[11px] uppercase tracking-[1.5px] font-semibold text-[#fed215] bg-[#f5b800]/20 border border-[#f5b800]/40 px-2.5 py-0.5 rounded-full self-center">
-                    Pre-Launch • Newtown, Kolkata
+                    New Launch • Newtown Action Area II, Kolkata
                   </span> */}
                 </div>
 
@@ -80,7 +80,7 @@ const Hero = ({ setIsOpen }) => {
                 <div className="flex flex-wrap items-center gap-2 sm:gap-3.5 text-xs sm:text-[13.5px] text-gray-600 mt-1.5">
                   <span className="inline-flex items-center gap-1.5 text-gray-700 font-medium">
                     <i className="fas fa-location-dot text-[#fed215] text-[11px]" />
-                    <span>Newtown, Kolkata</span>
+                    <span>Newtown Action Area II, Kolkata</span>
                   </span>
                 </div>
               </div>
@@ -202,7 +202,7 @@ const Hero = ({ setIsOpen }) => {
                 </div>
                 <div className="border-l border-gray-200 pl-3 sm:pl-5 lg:pl-6 flex-shrink-0">
                   <span className="text-gray-500 font-bold tracking-wider text-[10px] sm:text-[11px] uppercase block mb-1">Status</span>
-                  <strong className="text-emerald-600 font-black text-[13px] sm:text-[15px] whitespace-nowrap">Pre-Launch</strong>
+                  <strong className="text-emerald-600 font-black text-[13px] sm:text-[15px] whitespace-nowrap">New Launch</strong>
                 </div>
               </div>
 
@@ -223,7 +223,7 @@ const Hero = ({ setIsOpen }) => {
                 </div>
 
                 {/* LeadForm */}
-                <LeadForm formName="Upcoming New Launch Projects in Newtown Hero Form" btnText="Submit" />
+                <LeadForm formName="Aroha by PS Group, New Launch Projects in Newtown Action Area II Hero Form" btnText="Submit" />
 
                 {/* Instant Actions (Call & Visit on Mobile) */}
                 <div className="mt-3.5 pt-3.5 border-t border-gray-200 flex items-center justify-between text-[11.5px] sm:text-xs">

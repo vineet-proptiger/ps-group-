@@ -41,16 +41,16 @@ const nephilm = localFont({
 
 export const metadata = {
   metadataBase: new URL('https://psgroupprojectsnewtown.com'),
-  title: 'Upcoming New Launch Projects in Newtown | Luxury 3 & 4 BHK Apartments',
-  description: 'Upcoming New Launch Projects in Newtown offers luxury 3 & 4 BHK residences with premium lifestyle amenities. Spread across 22 acres with Premium lifestyle amenities. Enquire for details!',
+  title: 'Aroha by PS Group, New Town | Luxury 3 & 4 BHK Flats',
+  description: 'Discover Aroha by PS Group, a new launch residential project in New Town, Kolkata, offering luxury 3 & 4 BHK apartments across 22 acres with premium lifestyle amenities. Enquire now!',
   alternates: {
     canonical: '/',
   },
   openGraph: {
-    title: 'Upcoming New Launch Projects in Newtown | Luxury 3 & 4 BHK Apartments',
-    description: 'Upcoming New Launch Projects in Newtown offers luxury 3 & 4 BHK residences with premium lifestyle amenities. Spread across 22 acres with Premium lifestyle amenities. Enquire for details!',
-    url: 'https://psgroupprojectsnewtown.com',
-    siteName: 'Upcoming New Launch Projects in Newtown ',
+    title: 'Aroha by PS Group, New Town | Luxury 3 & 4 BHK Flats',
+    description: 'Discover Aroha by PS Group, a new launch residential project in New Town, Kolkata, offering luxury 3 & 4 BHK apartments across 22 acres with premium lifestyle amenities. Enquire now!',
+    url: 'https://psgroupprojectsNewtown Action Area II.com',
+    siteName: 'Aroha by PS Group, New Town',
     type: 'website',
   },
   icons: {

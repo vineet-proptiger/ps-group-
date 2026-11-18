@@ -19,7 +19,7 @@ const VirtualTour = ({ setIsOpen }) => {
     >
       <Image
         src={virtualTourImage}
-        alt="Upcoming New Launch Projects in Newtown Virtual Tour"
+        alt="Aroha by PS Group, New Launch Projects in Newtown Action Area II Virtual Tour"
         fill
         className="object-cover"
         quality={100}
